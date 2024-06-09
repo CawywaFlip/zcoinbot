@@ -2,7 +2,7 @@ import { bot } from "./index.js";
 
 export async function enableBot() {
 
-    const webAppURL = 'https://ya.ru';
+    const webAppURL = 'http://localhost:3000';
     const button = {
         reply_markup: {
             inline_keyboard: [
