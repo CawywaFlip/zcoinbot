@@ -1,0 +1,5 @@
+{
+    "botToken": "7498075751:AAFmRf2kVcQF4Fw85PR4cJUxSV80Bj-1Rrc",
+    "serverURL": "localhost:5000",
+    "mongoURL": "mongodb://localhost:27017/zcoin_local"
+}

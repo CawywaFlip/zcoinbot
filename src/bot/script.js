@@ -2,7 +2,7 @@ import { bot } from "./index.js";
 
 export async function enableBot() {
 
-    const webAppURL = 'http://localhost:3000';
+    const webAppURL = 'https://legendary-torrone-2ff1e7.netlify.app';
     const button = {
         reply_markup: {
             inline_keyboard: [
